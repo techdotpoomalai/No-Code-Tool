@@ -1,0 +1,11 @@
+.menu{
+    background-color: rgb(225, 235, 235);
+    /* width: 100%; */
+    height: max-content;
+}
+.view{
+    background-color: rgb(234, 234, 241);
+    /* width: 100%; */
+    height: 700px;
+    text-align: center;
+}
